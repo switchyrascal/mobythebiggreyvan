@@ -5,7 +5,7 @@ Moby is a Mercedes-Benz Sprinter van, 170EXT, 4x4, tenorite grey.
 ## Introduction
 This repo contains some (not all!) of the files and data used for upfitting
 Moby. For more information see
-[@climbeatcyclerepeat]https://www.instagram.com/climbeatcyclerepeat/
+[climbeatcyclerepeat](https://www.instagram.com/climbeatcyclerepeat/)
 and [Moby the Big Grey Van](https://www.instagram.com/mobythebiggreyvan/):
 
 ![Moby](/screenshots/moby-video.gif?raw=true "Moby CAD")
