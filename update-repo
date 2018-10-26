@@ -1,0 +1,11 @@
+#!/bin/bash
+# This is for updating github, since we don't want to put everything up there
+src=~/git/moby
+dst=~/git/github/mobythebiggreyvan
+mkdir -p ${dst}/cad
+mkdir -p ${dst}/code
+mkdir -p ${dst}/schematics
+cp -f ${src}/cad/production/moby.fcstd ${dst}/cad
+cp -f ${src}/cad/production/parts/*.{fcstd,svg} ${dst}/cad
+cp -f ${src}/code/{spinny-vid,replace-part}.py ${dst}/code
+cp -f ${src}/schematics/moby-*.{vsdx,svg} ${dst}/schematics
