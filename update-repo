@@ -5,6 +5,10 @@ dst=~/git/github/mobythebiggreyvan
 mkdir -p ${dst}/cad
 mkdir -p ${dst}/code
 mkdir -p ${dst}/schematics
+cp -f ${src}/LICENSE.mit code/LICENSE
+cp -f ${src}/LICENSE.cc cad/LICENSE
+cp -f ${src}/LICENSE.cc schematics/LICENSE
+cp -f ${src}/LICENSE.cc screenshots/LICENSE
 cp -f ${src}/cad/production/moby.fcstd ${dst}/cad
 cp -f ${src}/cad/production/parts/*.{fcstd,svg} ${dst}/cad
 cp -f ${src}/code/{spinny-vid,replace-part}.py ${dst}/code
