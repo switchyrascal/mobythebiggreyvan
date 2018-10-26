@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="500.49384mm"
+   height="540.41217mm"
+   viewBox="0 0 500.49384 540.41217"
+   version="1.1"
+   id="svg4257"
+   inkscape:version="0.92+devel unknown"
+   sodipodi:docname="maple-leaf.svg">
+  <defs
+     id="defs4251" />
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="0.11591181"
+     inkscape:cx="-784.92174"
+     inkscape:cy="68.150755"
+     inkscape:document-units="mm"
+     inkscape:current-layer="layer1"
+     showgrid="false"
+     inkscape:window-width="1440"
+     inkscape:window-height="838"
+     inkscape:window-x="0"
+     inkscape:window-y="25"
+     inkscape:window-maximized="1"
+     fit-margin-top="0"
+     fit-margin-left="0"
+     fit-margin-right="0"
+     fit-margin-bottom="0" />
+  <metadata
+     id="metadata4254">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1"
+     transform="translate(-123.20223,360.17384)">
+    <path
+       inkscape:connector-curvature="0"
+       style="fill:none;stroke:#000000;stroke-width:0.26458335;stroke-opacity:1"
+       d="m 373.43927,-359.89392 -43.66478,81.44038 c -4.95468,8.85121 -13.83204,8.03024 -22.70939,3.08656 l -31.61214,-16.36938 23.56103,125.09068 c 4.95473,22.85341 -10.94217,22.85341 -18.78738,12.97197 l -55.16935,-61.76124 -8.95665,31.36383 c -1.03287,4.11875 -5.57415,8.44471 -12.38717,7.41455 l -69.76227,-14.66767 18.32349,66.61727 c 3.92258,14.8231 6.98229,20.96038 -3.95998,24.869896 l -24.86554,11.686711 120.09125,97.5467446 c 4.75328,3.6883354 7.15481,10.3257424 5.4626,16.3354934 L 238.49249,60.2241 c 41.34917,-4.766342 78.3987,-11.937213 119.76882,-16.353539 3.6521,-0.389927 9.76625,5.637241 9.74115,9.869538 l -5.47871,126.365971 h 20.10418 L 379.46329,54.011112 c -0.0242,-4.232297 5.52157,-10.530429 9.17372,-10.140551 41.37012,4.416375 78.4197,11.587197 119.76887,16.353539 L 497.89533,25.731875 c -1.69216,-6.009751 0.70937,-12.647158 5.46264,-16.3354934 L 623.44914,-88.150363 598.58369,-99.837074 c -10.94232,-3.909516 -7.88261,-10.046796 -3.96003,-24.869896 l 18.32354,-66.61727 -69.76232,14.66767 c -6.81301,1.03016 -11.3543,-3.2958 -12.38717,-7.41455 l -8.95665,-31.36383 -55.16935,61.76124 c -7.84521,9.88144 -23.74211,9.88144 -18.78743,-12.97197 l 23.56103,-125.09068 -31.61209,16.36938 c -8.87755,4.94368 -17.75466,5.76465 -22.70939,-3.08656 z"
+       id="path6"
+       sodipodi:nodetypes="cccccccccccccccccccccscccccccccccccccc" />
+  </g>
+</svg>
