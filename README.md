@@ -1,6 +1,6 @@
 # mobythebiggreyvan
 
-Moby is a Mercedes-Benz Sprinter van, 170EXT, 4x4, tenorite grey.
+Moby is a 2016 Mercedes-Benz Sprinter van, 170EXT, 4x4, tenorite grey.
 
 ## Introduction
 This repo contains some (not all!) of the files and data used for upfitting
