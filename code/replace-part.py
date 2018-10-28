@@ -4,14 +4,14 @@
 import FreeCADGui
 
 class ReplacePart():
-    def __init__(self):
-        sel = FreeCADGui.Selection.getSelection()
+    def __init__(self, gui):
+        sel = gui.Selection.getSelection()
         if 2 != len(sel):
             print('Move first selection to second selection position')
             print('Select 2 objects exactly')
         else :
             self.replace_part(sel[1], sel[0])
-            FreeCADGui.updateGui()
+            gui.updateGui()
 
     def replace_part(self, src, dst):
         print('Moving "' + src.Label + '" to "' + dst.Label + '"')
@@ -30,4 +30,4 @@ class ReplacePart():
         src.Label = label + ' old'
         dst.Label = label
 
-ReplacePart()
+ReplacePart(FreeCADGui)

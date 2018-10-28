@@ -62,11 +62,11 @@ class FinishState:
         return None
 
 class SpinParts():
-    def __init__(self, order, doc):
+    def __init__(self, app, gui, order, doc):
         self.input = Input()
         self.state = StartState()
-        self.app = FreeCAD.getDocument(doc)
-        self.gui = FreeCADGui.getDocument(doc)
+        self.app = app.getDocument(doc)
+        self.gui = gui.getDocument(doc)
         self.timer = QtCore.QTimer()
         self.load_objects(order)
         self.reset_view()
@@ -134,4 +134,4 @@ order = [
     'Roof',
     'Walls',
 ]
-spinner = SpinParts(order, 'moby')
+spinner = SpinParts(FreeCAD, FreeCADGui, order, 'moby')
