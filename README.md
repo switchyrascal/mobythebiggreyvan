@@ -11,11 +11,11 @@ and [Moby the Big Grey Van](https://www.instagram.com/mobythebiggreyvan/):
 ![Moby](/screenshots/moby-video.gif?raw=true "Moby CAD")
 
 FreeCAD was used for designing all the parts, Fusion360 was used for all
-toolpath generation and machining. I have tried to make sure that the files are
-accurate and up-to-date, they are for the parts as-built. In total, Moby took
-about 5000 hours from start to finish; about 2000 hours of design and prep work
-and about 3000 hours to build. Anyhow, if you've managed to find this repo I
-hope you find it useful!
+toolpath generation and post-processing. I have tried to make sure that the
+files are accurate and up-to-date, and designs are for the parts as-built. From
+start to finish, Moby took about 5000 hours of work, including ~2000 hours of
+design and prep work and about ~3000 hours to build. Anyhow, if you've managed
+to find this repo, I hope you find it useful!
 
 ## License
 
