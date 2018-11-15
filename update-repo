@@ -1,4 +1,4 @@
-#!/bin/bash
+#!/bin/bash -e
 # This is for updating github, since we don't want to put everything up there
 src=~/git/moby
 dst=~/git/github/mobythebiggreyvan
