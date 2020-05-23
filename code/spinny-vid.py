@@ -2,7 +2,7 @@
 # Currently hard-coded file and group ordering
 # Use by starting a screencast then pressing the button
 # To clean up:
-# ffmpeg -y -i screencast.webm -r 10 -vf scale=640:360 -ss 00:00:04 -t 00:00:27 screencast.gif
+# ffmpeg -y -i screencast.webm -r 10 -filter:v "crop=1600:750:0:100,scale=640x300" -ss 00:00:03 -t 00:00:33 screencast.gif
 # ffmpeg -y -i screencast.webm -ss 00:00:04 -t 00:00:27 screencast.mp4
 import FreeCAD
 import FreeCADGui
@@ -104,7 +104,7 @@ class SpinParts():
 
     def start_animation(self):
         QtCore.QObject.connect(self.timer, QtCore.SIGNAL('timeout()'), self.handle_next_object)
-        self.timer.start(25)
+        self.timer.start(5)
 
     def update_animation(self):
         FreeCADGui.updateGui()
