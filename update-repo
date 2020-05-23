@@ -2,6 +2,9 @@
 # This is for updating github, since we don't want to put everything up there
 src=~/git/moby
 dst=~/git/github/mobythebiggreyvan
+rm -rf ${dst}/cad
+rm -rf ${dst}/code
+rm -rf ${dst}/schematics
 mkdir -p ${dst}/cad
 mkdir -p ${dst}/code
 mkdir -p ${dst}/schematics
